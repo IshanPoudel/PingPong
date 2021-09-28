@@ -1,0 +1,18 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import javax.swing.*;
+
+public class PongGame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// Create an instance of the GameFrame
+		GameFrame frame = new GameFrame();
+		
+		
+
+	}
+
+}
